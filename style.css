@@ -1,0 +1,68 @@
+* {
+  front-family:sans-serif;
+}
+
+h1 {
+        color:blue;
+        background-color:yellow;
+        border:2px solid red;
+        padding:20px; 
+        border-radius:50px;
+        box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0,  0,  0,  0.23) 0px 3px 6px;
+}
+
+h1:hover{
+   backround-color:green;
+}
+
+
+
+p {
+    font-weight:bold;
+    text-align:center;
+}
+
+
+li {
+    text-decoration:underline;
+}
+
+
+h1#next  {
+   background-color:skyblue;
+}
+
+
+h1#next:hover{
+  background-color:yellow
+}
+
+
+#later  {
+   color:gray;
+}
+
+
+.inner {
+  text-decoration:none;
+  color:gray;
+}
+
+
+#later, .inner {
+  front-weight:bold;
+}
+
+
+h3 div  {
+  color:red;
+}
+
+
+h3>div  {
+  color:blue;
+}
+
+
+
+
